@@ -1,0 +1,5 @@
+api-request/.venv/lib64
+api-request/.venv/pyvenv.cfg
+api-request/.venv/bin/python
+api-request/.venv/bin/python3
+api-request/.venv/bin/python3.12
